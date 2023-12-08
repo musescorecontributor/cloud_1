@@ -1,1 +1,1 @@
-test
+Découvrez comment utiliser des transactions et des données client pour entraîner des modèles de machine learning dans BigQuery ML pouvant être utilisés dans un pipeline de données en temps réel pour identifier, analyser et déclencher des alertes en cas d'une potentielle utilisation frauduleuse de carte de crédit![image](https://github.com/musescorecontributor/cloud_1/assets/46889731/56ca3000-f901-4c5b-b8d4-bb2029dd6dcb)
